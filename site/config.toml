@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Kieran Mason-Somers"
-intro = "Mobile Developer - Android / Web"
-description = "Developer at Hillary Blinds - Previously a student studying Computer Science at the University of Lincoln."
+intro = "Junior Mobile Developer - Android / Web"
+description = "Mobile team at Hillary Blinds - Previously studied Computer Science at the University of Lincoln."
 authorimage = "test.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -34,31 +34,28 @@ keywords = "minimalist,blog,goa,hugo,developer,android,react,go"
 
 ## Social Accounts
 [params.social]
-github = "<username>"
+github = "kmsomers"
 instagram = "<username>"
-xing = "<username>"
-linkedin = "<username>"
-twitter = "<username>"
-facebook = "<username>"
-google = "<username>"
-stackoverflow = "<username>"
-email = "you@example.com"
+linkedin = "kieran-mason-somers-9709a9126"
+twitter = "kmsomersx"
+facebook = "kieran.somers.7"
+email = "kieran.somers5@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Kieran Mason-Somersn. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018. Kieran Mason-Somers. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 highlightjs = true
 
 ## Main Menu
 [[menu.main]]
     name = "About"
-    identifier = "about"
+    identifier = "About"
     weight = 200
     url = "/about/"
 [[menu.main]]
     name = "Blog"
     weight = 100
-    identifier = "blog"
+    identifier = "Blog"
     url = "/post/"
 
