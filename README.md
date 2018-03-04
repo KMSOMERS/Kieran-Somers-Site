@@ -52,7 +52,7 @@ To get a preview of posts or articles not yet published, run:
 npm run build-preview
 ```
 
-See [package.json](https://github.com/atomtigerzoo/victor-hugo/blob/readme-updates/package.json#L7) or the included gulp file for all tasks.
+See [package.json](package.json#L7) or the included gulp file for all tasks.
 
 ## Structure
 
@@ -94,7 +94,7 @@ to `/dist/css/{filename}.css`. Import statements will be resolved as part of the
 
 ## Environment variables
 
-To seperate the development and production *- aka build -* stages, all gulp tasks run with a node environment variable named either `development` or `production`.
+To separate the development and production *- aka build -* stages, all gulp tasks run with a node environment variable named either `development` or `production`.
 
 You can access the environment variable inside the theme files with `getenv "NODE_ENV"`. See the following example for a conditional statement:
 
