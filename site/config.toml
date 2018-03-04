@@ -22,7 +22,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Kieran Mason-Somers"
-intro = "Junior Mobile Developer - Android / Web"
+intro = "Junior Mobile Developer"
 description = "Mobile team at Hillary Blinds - Previously studied Computer Science at the University of Lincoln."
 authorimage = "test.jpg"
 dateformat = "Jan 2, 2006"
