@@ -22,7 +22,7 @@ ___
 *I have two Android projects that are in various stages of completion which I am going to finish during the 100 days.*
 ___
 
-The first Android project is a Never Have I Ever drinking game that I originally started as stumbled upon the <a href="https://github.com/glomadrian/Grav"> Grav library</a>, I had just started to learn the MVP architecture pattern and it was an idea that meant I could implement both. It was nearly at the stage of completion, but looking back through the code I originally developed it without fully understanding the pattern so I am going to rewrite it to test my knowledge of the pattern now (AND WRITE TESTS!!). The app was originally written in Java so for this project I will be sticking with it.
+The first Android project is a Never Have I Ever drinking game that I originally started as I stumbled upon the <a href="https://github.com/glomadrian/Grav"> Grav library</a>, had just started to learn the MVP architecture pattern and it was an idea that meant I could implement both. It was nearly at the stage of completion, but looking back through the code I originally developed it without fully understanding the pattern so I am going to rewrite it to test my knowledge of the pattern now (AND WRITE TESTS!!). The app was originally written in Java so for this project I will be sticking with it.
 
 Goals for this project:
 
@@ -31,7 +31,7 @@ Goals for this project:
     - Write both JUnit and UI tests.
     - Look into using Google banner ads.
     
-The second Android application is a Twitter Sentiment Analysis App using the Twitter API and Watson Tone Analyzer API. This project is in an early stage so I am going to continue development from where I previously left off. Again, I am a fan of the MVP pattern so I will be using it for this project, and as I am using two rest API's I will be using Squares Retrofit library. This project will be written in Kotlin as the language is great to use and practice never hurts! 
+The second Android application is a Twitter Sentiment Analysis App using the Twitter API and Watson Tone Analyzer API. This project is in an early stage so I am going to continue development where I previously left off. Again, I am a fan of the MVP pattern so I will be using it for this project and as I am using two rest API's I will be using Squares Retrofit library. This project will be written in Kotlin as the language is great to use and practice never hurts! 
 
 Goals for this project:
 
