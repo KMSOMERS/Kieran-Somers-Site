@@ -12,7 +12,7 @@ showcomments = true
 
 Today is the prep for the <a href="https://github.com/Kallaway/100-days-of-code">#100DaysOfCode</a> challenge where I have created this site as a place for me to post my progress and make a commitment to finishing. 
 
-The plan is to follow two pomodoro cycles (25 minutes on 5 minutes off) and then write a post about how much I got done within the hour but this may change depending on how long the posts take to write. At the end of each week I will also be writing a more personal post on how the week went and what I am doing outside of programming to better myself. 
+The plan is to follow two pomodoro cycles (25 minutes on 5 minutes off) and then write a post about how much I got done within the hour, but this may change depending on how long the posts take to write. At the end of each week I will also be writing a more personal post on how the week went and what I am doing outside of programming to better myself. 
 
 100 days seems like such a long amount of time but we are already in March so I am sure that the days are going to fly by. Recently I have been starting and stopping projects without finishing them so I am going to set a couple milestones for the challenge as something to work towards.
 
