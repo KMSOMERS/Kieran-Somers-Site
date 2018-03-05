@@ -1,5 +1,5 @@
 +++ 
-title = "Day 0"
+title = "Day 0 - Setup"
 draft = false 
 comments = false 
 slug = "" 
