@@ -9,7 +9,7 @@ categories = []
 showpagemeta = true
 showcomments = true
 +++
-I've been really busy today so I unfortunately didn't manage to get an hour of programming in. Instead I used that time to update my CV as I have been in my current role for nearly 2 years now and its crazy how much I have improved. So instead of doing a usual todays progress ill be listing what suprised me when updating my CV and my thoughts on the process.
+I've been really busy today so I unfortunately didn't manage to get an hour of programming in. Instead I used that time to update my CV as I have been in my current role for nearly 2 years and its crazy how much I have improved. Instead of doing a usual todays progress update ill be listing what suprised me when updating my CV and my thoughts on the process.
 
 <b>Today's Progress:</b> I updated my CV to reflect the experience I have gained over the past 2 years. 
 
@@ -20,4 +20,4 @@ I've been really busy today so I unfortunately didn't manage to get an hour of p
 - .Net backend
 - Setup Jenkins CI
 
-All of these are in demand so I need to get better at not selling myself short, its really hard to put everything down on paper.
+All of these are in demand skills so I need to get better at not selling myself short, its really hard to put everything down on paper.
