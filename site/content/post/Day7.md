@@ -11,7 +11,7 @@ showcomments = true
 +++
 Finished project <a href="https://github.com/KMSOMERS/NeverHaveIEver100DaysChallenge">here!</a>
 
-So its already day 7 and it feels like this week has flown by. This was my first week of the challenge and I think that being held accountable with these posts is really helping me keep on track, I can't commit late or pretend to have done something as there is now a history. Today I had my first driving lesson and with the job interview coming things are looking positive. I also finished the first project of the challenge, meaning that I have now released my first application to the play store (well its currenly pending release). Instead of following the usual todays progress and thoughts, I am going to break this post into positives, negatives and thoughts I had throughout the week.
+So its already day 7 and it feels like this week has flown by. This was my first week of the challenge and I think that being held accountable with these posts is really helping me keep on track, I can't commit late or pretend to have done something as there is now a history. Today I had my first driving lesson and with the job interview coming up, things are looking positive. I also finished the first project of the challenge, meaning that I have now released my first application to the play store (well its currenly pending release). Instead of following the usual "todays progress and thoughts", I am going to break this post into positives, negatives, and thoughts I had throughout the week.
 
 <b>Positives actions:</b>
 
