@@ -15,8 +15,4 @@ Its the first day of the second week and this marks the start of my interview pr
 
 <b>Today's Progress:</b> Started reading Programming Interviews Exposed and tackled a couple problems on Leetcode.
 
-<<<<<<< HEAD
 <b>Thoughts:</b> This is going to be harder than I thought, even the easy problems on Leetcode proved challenging so I hope that I will soon look back at this day and remember how hard I used to think it was.
-=======
-<b>Thoughts:</b> This is going to be harder than I thought, even the easy problems on Leetcode proved challenging so I hope that I will soon look back at this day and remember how hard I used to think this was.
->>>>>>> day 9
