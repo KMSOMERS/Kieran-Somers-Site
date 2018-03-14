@@ -1,5 +1,5 @@
 +++ 
-title = "Day - 9 Linked Lists"
+title = "Day 9 - Linked Lists"
 draft = false 
 comments = false 
 slug = "" 
