@@ -1,5 +1,5 @@
 +++ 
-title = "Day 10 - Trees and Graphs
+title = "Day 10 - Trees and Graphs"
 draft = false 
 comments = false 
 slug = "" 
